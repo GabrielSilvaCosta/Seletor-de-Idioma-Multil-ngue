@@ -1,29 +1,17 @@
-# Language-vue-trainer
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Seletor de Idioma Multilíngue
+Este projeto é um simples seletor de idioma multilíngue desenvolvido com Vue.js e Vue I18n. 
+Ele permite que os usuários escolham entre diferentes idiomas (inglês, português e espanhol) 
+e exibe saudações correspondentes em cada idioma selecionado.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Funcionalidades Principais
+Seletor de idioma com bandeiras correspondentes para inglês, português e espanhol.
+Exibição dinâmica de saudações em diferentes idiomas.
+Integração com Vue I18n para gerenciamento de traduções.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Como Usar
+Clone este repositório: git clone https://github.com/seu-usuario/seletor-idioma-multilingue.git
+Instale as dependências: npm install
+Execute o servidor de desenvolvimento: npm run serve
+Acesse o aplicativo em seu navegador: http://localhost:8080
