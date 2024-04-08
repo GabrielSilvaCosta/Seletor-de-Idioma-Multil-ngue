@@ -6,6 +6,5 @@ export default {
         goodmorning: 'Bom Dia',
         goodafternoon: 'Boa Tarde',
         goodnight: 'Boa Noite',
-        change: "Mudar para:"
     },
 }

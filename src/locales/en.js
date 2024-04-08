@@ -7,6 +7,5 @@ export default {
         goodafternoon: 'Good Afternoon',
         goodevening: 'Good Evening',
         goodnight: 'Good Night',
-        change: "Switch to:"
     },
 }
